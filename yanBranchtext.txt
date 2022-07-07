@@ -1,1 +1,2 @@
 yan branch ilk commiti
+yan branch ikinci commit
